@@ -1,4 +1,4 @@
-## Hi there 👋
+## 《周易·谦卦》：“谦谦君子，卑以自牧也。” 👋
 
 <!--
 **pmxzoom/pmxzoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on HLYH
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on Qt
+- 🤔 I’m looking for help with automated testing
+- 💬 Ask me about Wpf
+- 📫 How to reach me: 1464077102@qq.com
+- 😄 Pronouns: cool
+- ⚡ Fun fact: abdominal muscle
